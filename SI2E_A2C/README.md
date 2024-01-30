@@ -1,4 +1,4 @@
-# Installation
+# MiniGrid Evaluation
 
 Follow the steps below to set up the necessary environments and dependencies for the SI2E framework.
 
