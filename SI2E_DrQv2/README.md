@@ -1,4 +1,5 @@
-# Follow the steps below to set up the necessary environments and dependencies for the SI2E framework.
+# DMControl Evaluation
+Follow the steps below to set up the necessary environments and dependencies for the SI2E framework.
 
 - The two packages below are not included in `conda_env.yml`.
 - Install MuJoCo 2.1.0.
