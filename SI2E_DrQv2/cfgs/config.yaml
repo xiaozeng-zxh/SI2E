@@ -45,7 +45,7 @@ agent:
   feature_dim: ${feature_dim}
   stddev_schedule: ${stddev_schedule}
   stddev_clip: 0.3
-  beta: 0.1 ## vcse 0.1, se 0.1
+  beta: 0.1
   knn_k: 12
   do_vcse: true  # whether to use the value-conditional structural entropy
 
